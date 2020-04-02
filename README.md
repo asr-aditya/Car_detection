@@ -3,6 +3,8 @@ Car detection via YOLO algorithm
 
 This project is a part of assignment of Convolutional Neural Networks - Deeplearning.ai
 
+To download the model click [here](https://drive.google.com/file/d/11Q0Zq_bQSusPP8ALA3yeZq9j0yMfMBe-/view). Place the model in model_data folder. The projects is based on the framework: tensorflow 1.2.1
+
 "You Only Look Once" (YOLO) is a popular algorithm because it achieves high accuracy while also being able to run in real-time. This algorithm "only looks once" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.
 
 ###  Model details
